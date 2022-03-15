@@ -6,6 +6,7 @@ public class calculator {
 	int result=x+y;
 	
 	return result;
+
 	}
 
 }
